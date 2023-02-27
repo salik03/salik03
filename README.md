@@ -10,7 +10,7 @@ Hello! I am an ambitious and aspiring software engineer with a passion for solvi
 - :coffee: Java
 - :mag: Web Scraping
 - :robot: AI and ML
-- :django: Django
+- Django
 - :fire: Firebase
 - :floppy_disk: MySQL
 - :postbox: Postman
