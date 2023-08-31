@@ -1,36 +1,80 @@
-# Salik Uddin - Software Engineer, Python Fullstack
+# Salik Uddin
 
 ![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
-Hello! I am an ambitious and aspiring software engineer with a passion for solving complex problems and delivering high-quality solutions. With my strong background in Python, Java, web scraping, AI, and ML, I am confident in my abilities to implement any kind of logic and provide good solutions.
+📱 Mobile App Developer | 🌏 Lucknow, Uttar Pradesh | ✉️ uddinsalik@outlook.com | ☎️ +91 90444 31440
 
-## Skills
 
-- :snake: Python
-- :coffee: Java
-- :mag: Web Scraping
-- :robot: AI and ML
-- :fire: Firebase
-- :floppy_disk: MySQL
-- :postbox: Postman
-- :globe_with_meridians: REST API
-- :bulb: Strong logic building skills
+## 🚀 About Me
 
-## Experience
+I'm Salik Uddin, a passionate mobile app developer with a knack for crafting exceptional cross-platform applications. My journey in the world of technology has equipped me with a wide range of skills, making me a versatile developer ready to tackle any challenge.
 
-- Developing the latest user-facing features using Python and Django
-- Designing modern web-based user interfaces
-- Building reusable components
-- Optimizing for performance across a vast array of web-capable devices and browsers
-- Coordinating with teams working on distinct layers
-- Working from conception to completion on projects that are technologically sound and aesthetically impressive
 
-## Communication and Adaptability
+## 🔧 Technical Skills
 
-I am a confident communicator and am able to effectively articulate my ideas to clients. My ability to adapt and learn quickly allows me to effectively tackle new challenges and projects.
+- Flutter
+- React Native
+- Kotlin
+- Java
+- Dart
+- Swift
+- Objective C
+- C#
+- C++
+- Unity
+- Unreal Engine
+- Prisma
+- Node.js
+- TypeScript
+- Python|Streamlit
+- JavaScript
+- Tailwind CSS
+- Flask
+- Figma
 
-## GitHub
 
-Check out my GitHub profile to see some of my previous work and projects: [Salik Uddin's GitHub](https://github.com/salik03).
+## 🛠️ Professional Experience
+
+**Freelance Remote - Flutter App Development** (June 2023)
+
+- Crafted Custom Apps: Tailored solutions to clients' requirements.
+- Used Flutter Framework: Created cross-platform applications.
+- Solved Tech Challenges: Resolved complex issues effectively.
+- Managed Client Relations: Maintained strong communication and rapport.
+- Met Timelines: Ensured on-time project completion.
+
+**Freelance Remote - React Native App Development** (July 2023)
+
+- Built Mobile Apps: Developed apps meeting client needs.
+- Used React Native: Created cross-device compatible applications.
+- Handled Tech Issues: Addressed challenging technical problems proficiently.
+- Managed Client Relations: Maintained strong communication and rapport.
+- Met Timelines: Ensured on-time project completion.
+
+
+## 🏆 Achievements
+
+- **Kavach Cybersecurity Hackathon Bangalore**
+  - Hackathon Finalist
+  - Developed a cross-platform app to alert users about potential spam content.
+  - Enhanced problem-solving skills and application development expertise.
+
+
+## 📜 Certifications
+
+- Foundations of Project Management, Google (May 2023)
+- Software Engineering: Modeling Software Systems using UML (December 2022)
+- The Bits and Bytes of Computer Networking (March 2023)
+- AWS Academy Cloud Foundations (November 2022)
+- AWS Academy Cloud Architecting (November 2022)
+
+
+## 🌐 Connect with Me
+
+- [LinkedIn](https://www.linkedin.com/in/salik-uddin-2a857b217)
+- [GitHub](https://github.com/salik03)
+
+
+Feel free to reach out to me for any collaboration or just to connect. Let's build amazing apps together! 📱🚀
 
 ![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
