@@ -1,5 +1,5 @@
 # Salik Uddin
-📱 Mobile App Developer | 🌏 Lucknow, Uttar Pradesh | ✉️ uddinsalik@outlook.com | ☎️ +91 90444 31440
+📱 Mobile App Developer | 🌏 Lucknow, Uttar Pradesh | ✉️ uddinsalik@outlook.com
 
 ![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
