@@ -11,6 +11,7 @@ I'm Salik Uddin, a passionate mobile app developer with a knack for crafting exc
 ## 🔧 Technical Skills
 
 - Flutter
+- Selenium
 - React Native
 - Kotlin
 - Java
@@ -30,6 +31,8 @@ I'm Salik Uddin, a passionate mobile app developer with a knack for crafting exc
 - Flask
 - Figma
 - AWS
+- Firebase
+- Supabase
 
 
 ## 🛠️ Professional Experience
