@@ -29,6 +29,7 @@ I'm Salik Uddin, a passionate mobile app developer with a knack for crafting exc
 - Tailwind CSS
 - Flask
 - Figma
+- AWS
 
 
 ## 🛠️ Professional Experience
